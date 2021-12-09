@@ -1,2 +1,2 @@
-# sample01.github.io
+# sample01
 sugikaho's house
